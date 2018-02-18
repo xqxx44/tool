@@ -75,6 +75,13 @@ https://www.vagrantup.com/downloads.html
 https://app.vagrantup.com/boxes/search
 http://www.vagrantbox.es/
 
+※Windows7は古いバージョンをインストールする
+http://gintec.hatenablog.com/entry/2017/10/10/104514
+https://releases.hashicorp.com/vagrant/
+VirtualBoxのバージョン5.1.*にダウングレードする必要がある場合もある
+https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
+
+
 ■win-scp
 ファイル転送ツール
 https://forest.watch.impress.co.jp/library/software/winscp/
@@ -109,6 +116,7 @@ https://www.ccleaner.com/recuva/builds
 https://enjoypclife.net/2014/06/13/windows-7-8-recuva-how-to-use/
 
 
+■
 
 
 

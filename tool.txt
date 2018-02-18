@@ -57,6 +57,13 @@ https://qiita.com/murachi1208/items/d6e4ce7ba75f1625fe51
 秘密鍵生成ツール
 http://www.atmarkit.co.jp/ait/articles/1006/25/news095.html
 http://www.ranvis.com/putty
+http://www.geocities.co.jp/Outdoors-Marine/2974/pc/win/putty#setting
+
+https://qiita.com/pakiran/items/eeeb736cbef5d8b609db
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
 
 ■geek
 アンインストーラーソフト

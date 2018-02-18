@@ -1,0 +1,36 @@
+■Windows7でvagrantをwin-scpでつなぐ方法
+参考URL:https://qiita.com/SRsawaguchi/items/725ee5e240261a43f96a
+
+
+
+■Windows7でputtyでSSH
+参考URL:https://qiita.com/pakiran/items/eeeb736cbef5d8b609db
+
+参考URL:http://www.geocities.co.jp/Outdoors-Marine/2974/pc/win/putty#setting
+
+参考URL:https://qiita.com/pakiran/items/eeeb736cbef5d8b609db
+
+putty公式:https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+PuTTY日本語化:http://www11.tok2.com/home/hdk/
+
+秘密鍵を作成
+1.puttygen.exeを実行
+2.load(読み込みボタン)をクリック
+3.下記ディレクトリに移動
+Windows XP: C:\Documents and Settings{your username}.vagrant.d\ 
+Windows 7: C:\Users{your username}.vagrant.d\
+4.insecure_private_keyをダブルクリック
+※ファイルが表示されない場合は、「All File」を選択
+5.Number of bits in a generated keyの欄を2048にする
+6.Save private keyボタンをダブルクリック
+任意ファイル名.ppkで保存
+
+
+
+■Windows7でrloginでSSH
+https://www.amelt.net/imc/programming/rails/4791/
+
+
+■vagrantとローカルのファイルを共有する方法
+http://www.kodomonote.jp/archives/1917
+

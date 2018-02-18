@@ -88,6 +88,9 @@ https://releases.hashicorp.com/vagrant/
 VirtualBoxのバージョン5.1.*にダウングレードする必要がある場合もある
 https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
 
+※Windows7 Git bashでvagrant sshで接続ができない場合は
+vagrantのバージョンを1.9.5にダウングレードする
+
 
 ■win-scp
 ファイル転送ツール
